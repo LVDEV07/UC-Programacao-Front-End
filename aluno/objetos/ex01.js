@@ -4,13 +4,13 @@
 
 
 const produto1 = {
-    nome: "Banana prata",
+    nome: "Banana_prata",
     preco: 5.49,
     categoria: "Laticínios"
 };
  
 const produto2 = {
-    nome: "Laranja Bahia",
+    nome: "Laranja_Bahia",
     preco: 12.90,
     categoria: "Frutas"
 };
