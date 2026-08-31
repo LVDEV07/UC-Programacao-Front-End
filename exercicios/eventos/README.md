@@ -17,5 +17,3 @@ Faça os exercícios a seguir escrevendo código JavaScript a ser vinculado à s
 - Quando tiver isso funcionando, adicione uma funcionalidade onde, se você inflar o balão além de um certo tamanho, ele “explode”. Neste caso, explodir significa que ele é substituído por um emoji 💥, e o manipulador de evento é removido (para que você não possa inflar ou desinflar a explosão).
 
 4. **Baralho `📁 baralho/`:** escreva um código que adiciona um evento ao baralho exibido, fazendo com que uma carta seja comprada a partir do array de objetos no `baralho.js`. Inclua a carta sorteada na página e remova-a do array.
-
-5. **{Em elaboração}**
